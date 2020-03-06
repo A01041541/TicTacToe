@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="mode1">X</string>
+    <string name="mode2">0</string>
+    <string name="start">Start game or select player</string>
+    <string name="finishX">X Wins!</string>
+    <string name="finish0">0 Wins!</string>
+    <string name="reset">Reset</string>
+</resources>
